@@ -2,4 +2,5 @@ select*from
 inner join productos p on
 where p.idproducto = 10
 editado en select
-
+Hola mundo
+Hello word
