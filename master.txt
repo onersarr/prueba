@@ -1,4 +1,5 @@
 select*from
 inner join productos p on
 where p.idproducto = 10
-editado desde master
+editado en select
+
